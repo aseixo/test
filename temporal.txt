@@ -1,0 +1,9 @@
+Mar Xul 30 19:28:12 CEST 2019
+Mar Xul 30 19:28:14 CEST 2019
+Mar Xul 30 19:28:16 CEST 2019
+-------------------------------
+fin temporal \r\n na rama temporal
+\r\n
+fin temporal
+\r\n
+na rama temporal
